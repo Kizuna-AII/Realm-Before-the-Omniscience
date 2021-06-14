@@ -1,4 +1,5 @@
 # Realm: Before the Omniscience
+
 Project for ZJU-Game-2021
 
 Collaborator:
@@ -13,5 +14,9 @@ Collaborator:
 
 
 
+## Timeline
 
+6.6 游戏概念文档
+
+6.13 游戏策划书
 
