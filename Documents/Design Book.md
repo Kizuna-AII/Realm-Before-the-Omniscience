@@ -231,3 +231,24 @@ Phase1灯亮后，洗衣机的提示响了，随后可以打开洗衣机，将�
 右下角图：解释谜题1-3的大致形态
 
 ![](../Photos/Room4_Draft.jpg)
+
+
+
+### Room5 入口
+
+
+
+### Room6 医院
+
+![](../Photos/Room5&6_Draft.jpg)
+
+
+
+### Room7 博物馆
+
+
+
+![](../Photos/Room7_Draft.jpg)
+
+
+
