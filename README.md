@@ -40,6 +40,12 @@ Texture :  TX_Chair, TX_Keyboard,...
 
 
 
+## Map Design
+
+在UE4种按照1m=100像素来设计
+
+
+
 ## Model List
 
 全图：弧形墙壁、天花板、地板、自动门（类似电梯门那种左右打开的）、拼图（收集品）
