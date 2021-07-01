@@ -4,3 +4,4 @@
 /Code/Content/EF_Edie/* filter=lfs diff=lfs merge=lfs -text
 /Code/Content/EF_Edie/ filter=lfs diff=lfs merge=lfs -text
 Code/Content/EF_Edie/* filter=lfs diff=lfs merge=lfs -text
+Code/Content/EF_Edie/** filter=lfs diff=lfs merge=lfs -text
