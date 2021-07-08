@@ -14,6 +14,28 @@ Collaborator:
 
 
 
+## Readme
+
+程序源码：./Code/Code.uproject
+
+Demo：./Release
+
+演示视频：./Release
+
+所有文档均在./Document下
+
+设计文档：Design Book.md （后续设计有修改，会有更新）
+
+概念文档：Concept Book.md
+
+开发文档：Development Report (还有一些技术部分未更新，后续会有更新)
+
+报告ppt：presentation.pptx
+
+分工文档：Detailed Contribution.md
+
+
+
 ## Timeline
 
 6.6 游戏概念文档
@@ -120,5 +142,4 @@ Texture :  XX_Mat，XX_Mesh
 
 6. 字母A-H，数字1-16（8进制下）的长宽比1：1贴图（现在的电梯按钮字体不一样不太好康）
 
-7. 
 
