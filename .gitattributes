@@ -1,5 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Release/** filter=lfs diff=lfs merge=lfs -text
 Code/Build/** filter=lfs diff=lfs merge=lfs -text
 Code/Binaries/** filter=lfs diff=lfs merge=lfs -text
 Code/Content/Audio/** filter=lfs diff=lfs merge=lfs -text
