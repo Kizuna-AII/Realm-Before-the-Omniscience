@@ -2,6 +2,23 @@
 
 3180103009 Tianyun ZHONG (Kizuna-AII)
 
+主要技术实现：
+
+- 抽象交互类实现
+- 轮廓勾边实现
+- 乱重力模拟隧道实现
+- 华容道逻辑设计
+- 大华容道逻辑设计
+- 3D-Capture传送门实现
+- 后处理特效实现
+- 任意长度密码锁实现
+- 解决项目导出异常
+
+关卡场景搭建：
+
+- Room9
+- Room10
+
 3180105261 Ningyuan YOU	(SilverNebula)
 
 3180105438 Qingyi HE			 (FlazeNaive)
