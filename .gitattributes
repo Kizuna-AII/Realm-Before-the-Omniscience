@@ -18,3 +18,4 @@ Code/Content/MS_ScaryRestroom/** filter=lfs diff=lfs merge=lfs -text
 Code/Content/Resources/** filter=lfs diff=lfs merge=lfs -text
 Code/Content/StarterContent/** filter=lfs diff=lfs merge=lfs -text
 Code/Content/Material/Audio/** filter=lfs diff=lfs merge=lfs -text
+Code/Content/Levels/Room6_BuiltData.uasset
