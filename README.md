@@ -56,6 +56,10 @@ Demo：./Release
 
 ### 3 DAY TO PUBLISH!
 
+**note**
+
+room6里 BP door1，4是北边大厅的，BP door2，3是药房的（修改路线用）
+
 River:
 DAY 1: Room11实验室场景搭建，关卡蓝图及核心技术、所有收集品设置、Room2收集品修改
 DAY 2: Room4场景搭建及关卡蓝图，无尽回廊搭建、Room8关卡蓝图、策划文档修改、Room8-12BGM
