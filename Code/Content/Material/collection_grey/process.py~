@@ -1,4 +1,3 @@
-'''
 import cv2
 import numpy as np
 
@@ -21,7 +20,10 @@ img2 = cv2.cvtColor(img2, cv2.COLOR_HSV2BGR)
 cv2.imshow("rua", img2)
 cv2.waitKey(0)
 cv2.imwrite("result_HSV.png", img2)
-img = cv2.cvtColor(img2,cv2.COLOR_BGR2GRAY)
+img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2HSV)
+img = img2
+img[:, :, 1] = 0
+img2 = cv2.cvtColor(img2, cv2.COLOR_HSV2BGR)
 cv2.imshow("rua", img)
 cv2.waitKey(0)
 '''
@@ -47,5 +49,6 @@ plt.figure()
 plt.imshow(cvted_grey,cmap="gray")
 plt.show()
 
-cv2.imwrite('./result.png', cvted*255)
+cv2.imwrite('./result_2.png', cvted*255)
 cv2.imwrite('./result_grey_2.png', cvted_grey*255)
+'''
