@@ -7,26 +7,20 @@ img2 = cv2.imread('collection-grey-color-mask.png')
 cv2.imshow("rua", img)
 cv2.waitKey(0)
 
-img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+img = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 cvt = [ 0.114, 0.587 ,0.299 ]
 # B, G, R
 
 [h, w, _] = np.shape(img2)
 print(h, w, _)
 
-img2_gray = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
-cv2.imshow("rua", img2_gray)
-cv2.waitKey(0)
-for i in range(h):
-    for j in range(w):
-        img2_gray[i, j] = max(img2_gray[i, j] , 1)
-        img2[i, j, :] = 1.0 * img2[i, j, :] * img[i, j] / img2_gray[i, j]
-
-img2 = np.clip(img2, 0, 255)
+img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2HSV)
+img2[:, :, 2] = img[:, :, 2]
+img2 = cv2.cvtColor(img2, cv2.COLOR_HSV2BGR)
 
 cv2.imshow("rua", img2)
 cv2.waitKey(0)
-cv2.imwrite("output.png", img2)
+cv2.imwrite("result_HSV.png", img2)
 img = cv2.cvtColor(img2,cv2.COLOR_BGR2GRAY)
 cv2.imshow("rua", img)
 cv2.waitKey(0)
@@ -53,5 +47,5 @@ plt.figure()
 plt.imshow(cvted_grey,cmap="gray")
 plt.show()
 
-cv2.imwrite('./result.png', cvted*255)
-cv2.imwrite('./result_grey.png', cvted_grey*255)
+cv2.imwrite('./result_2.png', cvted*255)
+cv2.imwrite('./result_grey_2.png', cvted_grey*255)
