@@ -47,5 +47,5 @@ plt.figure()
 plt.imshow(cvted_grey,cmap="gray")
 plt.show()
 
-cv2.imwrite('./result_2.png', cvted*255)
+cv2.imwrite('./result.png', cvted*255)
 cv2.imwrite('./result_grey_2.png', cvted_grey*255)
