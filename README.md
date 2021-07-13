@@ -94,6 +94,19 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 
 
+
+
+### Test to Release
+
+Todos：
+
+1. Room6光照
+2. Collection2
+3. Ending
+4. 提示&反馈
+
+
+
 ## Ending Text
 
 ### ENG
