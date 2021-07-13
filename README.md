@@ -100,6 +100,10 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 Realm : Before the Omniscience
 
+
+
+Contributors
+
 Master Planning : River75731
 
 Concept Sketch : FlazeNaive, Kizuna_AII, River75731, SilverNebula
