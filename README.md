@@ -94,7 +94,171 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 
 
+## Ending Text
 
+### ENG
+
+Realm : Before the Omniscience
+
+Master Planning : River75731
+
+Concept Sketch : FlazeNaive, Kizuna_AII, River75731, SilverNebula
+
+Concept Design : River75731
+
+Level Design : River75731
+
+User Interface : SilverNebula
+
+Sound Effect : SilverNebula
+
+Background Music : River75731
+
+Art Supervisor : FlazeNaive
+
+Scene Building : FlazeNaive, Kizuna_AII, River75731
+
+Art Material : FlazeNaive, Kizuna_AII, River75731
+
+Mechanic Implementation : Kizuna_AII
+
+
+
+Art Material (Free Material in Unreal Market)
+
+Edith Finch : Barbara Room
+
+Edith Finch : Cannery and LowPoly Kingdom
+
+Edith Finch : Classrooms and Bedrooms
+
+Edith Finch : Edie Room
+
+Edith Finch : Molly Room
+
+Edith Finch : Sam Room
+
+UE4 Starter Content
+
+
+
+Music Material 
+
+(Declaration : Some materials have not obtained commercial copyright. This work is for entertainment purposes only. Commercial activities in any form are not allowed.)
+
+Aphex Twin - #3
+
+Aphex Twin - #17 
+
+Aphex Twin - T69 Collapse
+
+Kikagaku Moyo - Amayadori
+
+Kikagaku Moyo - Entrance
+
+Re-TROS (Rebuilding the Rights of Statues) - 8+2+8 II
+
+Re-TROS (Rebuilding the Rights of Statues) - THE LAST DANCE, W_
+
+The Big Wave - Synth
+
+发光曲线 (Glow Curve) - 死在旋转公寓
+
+惘闻 (Wang Wen) - 独舞
+
+超级市场 (The Supermarket) - 空4 (Empty #4)
+
+
+
+Acknowledgement
+
+Unreal Engine 4.26.2
+
+
+
+### CHN
+
+感知领域
+
+
+
+制作者（按姓名首字母排序）
+
+总策划：江昊翰
+
+概念草案：贺情怡、江昊翰、游宁远、钟添芸
+
+概念设计：江昊翰
+
+关卡设计：江昊翰
+
+UI界面：游宁远
+
+音效 ： 游宁远
+
+背景音乐 ：江昊翰
+
+美术总监：贺情怡
+
+场景搭建 ： 贺情怡、江昊翰、钟添芸
+
+美术素材 ： 贺情怡、江昊翰、钟添芸
+
+核心技术蓝图：钟添芸
+
+
+
+素材提供
+
+（注：部分素材未获得商用版权，本作品仅供娱乐使用，不允许将本作品以任何形式进行商业行为，违者必究）
+
+美术素材（虚幻商城免费产品）
+
+Edith Finch : Barbara Room
+
+Edith Finch : Cannery and LowPoly Kingdom
+
+Edith Finch : Classrooms and Bedrooms
+
+Edith Finch : Edie Room
+
+Edith Finch : Molly Room
+
+Edith Finch : Sam Room
+
+UE4 Starter Content
+
+
+
+音乐素材（均未获得商用版权）
+
+《#3》—— Aphex Twin (Room11 背景音乐)
+
+《#17》—— Aphex Twin (Room7 背景音乐)
+
+《T69 Collapse》 —— Aphex Twin (Room9 背景音乐)
+
+《空4》—— 超级市场 (Room6 背景音乐)
+
+《Synth》—— 大波浪 The Big Wave (Room8 背景音乐)
+
+《死在旋转公寓》—— 发光曲线 (Room6 背景音乐)
+
+《Amayadori》—— 幾何学模様 Kikagaku Moyo (Room3 背景音乐)
+
+《Entrance》—— 幾何学模様 Kikagaku Moyo (主菜单背景音乐)
+
+《独舞》—— 惘闻 (Room10 背景音乐)
+
+《8+2+8 II》—— 重塑雕像的权力 Re-TROS (Room7 背景音乐)
+
+《THE LAST DANCE, W_》 —— 重塑雕像的权力 Re-TROS (Room12 背景音乐)
+
+
+
+特别鸣谢
+
+虚幻引擎4.26.2
 
 
 
