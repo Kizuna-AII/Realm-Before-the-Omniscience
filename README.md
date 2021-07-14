@@ -370,3 +370,5 @@ Texture :  XX_Mat，XX_Mesh
 进度条actor：可以在场景中放一个进度条，见UI/InterfaceActors/ProgressbarActor
 
 显示屏actor：可以在场景中放一个显示屏，显示任意文字和图像。见UI/InterfaceActors/InterfaceActor
+
+更改移动速度和视角旋转速度：首先获取Player pawn，转换为FirstPersonCharacter后调用SetTempMoveSpeed()和SetTempCameraSpeed()。实际速度为设置的factor*原速度，factor值域为[-2 ,2]
