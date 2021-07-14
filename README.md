@@ -119,7 +119,7 @@ tester的问题反馈：
 
 3. UI的bug
 
-   ![](.\Photos\问题反馈-UI.jpg)
+   ![](./Photos/问题反馈-UI.jpg)
 
    “然后 ui这里 好像点了设置 敲esc 就会出问题（”
 
