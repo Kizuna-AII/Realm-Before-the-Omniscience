@@ -354,3 +354,19 @@ Texture :  XX_Mat，XX_Mesh
 
 6. 字母A-H，数字1-16（8进制下）的长宽比1：1贴图（现在的电梯按钮字体不一样不太好康）
 
+
+## 目前可用的UI
+
+存读档:存档自动存所在level(关卡)，读档自动open level；有接口GetNowLevel()和SetNowLevel()可以手动存一个integer(可以用来记具体到了哪个room..?)
+
+提示图像(小)：BP_Actor_Pickupable的子类可以设一个infoPic，当鼠标移上去时在准星旁边弹出图片；
+
+提示图像(大)：调用UImanager的ShowItemInfo()接口可以在屏幕中央弹出一个有图片和文字的面板（带滚动条，可以放很多字），需要玩家手动关闭。
+
+字幕：调用UImanager的ShowSubtitle接口可以以指定屏幕坐标、时长、字号、内容显示一行文字。
+
+显示坐标：如有需要可以在玩家HUD上显示character的xyz坐标等属性。
+
+进度条actor：可以在场景中放一个进度条，见UI/InterfaceActors/ProgressbarActor
+
+显示屏actor：可以在场景中放一个显示屏，显示任意文字和图像。见UI/InterfaceActors/InterfaceActor
