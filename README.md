@@ -98,18 +98,14 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 ### Test to Release
 
-#### Todos：
+#### Todo：
 
 1. Room6光照
-2. Collection2
 3. Ending
 4. 提示&反馈
 5. Room6电梯按钮有材质问题
-6. Room12 连在一起反馈不明显
-7. Room6的人物材质有问题
-8. Room2华容道不明显
-9. Room3灯管谜题换个地方
-10. Room3的国际象棋棋盘移到Room4，加个提示
+5. Room12 连在一起反馈不明显
+10. 国际象棋棋盘修改
 11. Room12收集品材质
 
 #### tester的问题反馈：
