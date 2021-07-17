@@ -102,10 +102,7 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 1. Room6光照
 3. Ending
-4. 提示&反馈
-5. Room6电梯按钮有材质问题
-5. Room12 连在一起反馈不明显
-10. 国际象棋棋盘修改
+3. 提示&反馈
 11. Room12收集品材质
 
 #### tester的问题反馈：
@@ -196,13 +193,15 @@ Kikagaku Moyo - Amayadori
 
 Kikagaku Moyo - Entrance
 
-Re-TROS (Rebuilding the Rights of Statues) - 8+2+8 II
+Re-TROS - 8+2+8 II
 
-Re-TROS (Rebuilding the Rights of Statues) - THE LAST DANCE, W_
+Re-TROS - THE LAST DANCE, W_
+
+Re-TROS - Up Next: Bela Lugosi's Back
 
 The Big Wave - Synth
 
-发光曲线 (Glow Curve) - 死在旋转公寓
+Glow Curve - 死在旋转公寓
 
 惘闻 (Wang Wen) - 独舞
 
@@ -280,19 +279,21 @@ UE4 Starter Content
 
 《空4》—— 超级市场 (Room6 背景音乐)
 
-《Synth》—— 大波浪 The Big Wave (Room8 背景音乐)
+《Synth》—— 大波浪 (Room8 背景音乐)
 
 《死在旋转公寓》—— 发光曲线 (Room6 背景音乐)
 
-《Amayadori》—— 幾何学模様 Kikagaku Moyo (Room3 背景音乐)
+《Amayadori》—— 幾何学模様 (Room3 背景音乐)
 
-《Entrance》—— 幾何学模様 Kikagaku Moyo (主菜单背景音乐)
+《Entrance》—— 幾何学模様 (主菜单背景音乐)
 
 《独舞》—— 惘闻 (Room10 背景音乐)
 
-《8+2+8 II》—— 重塑雕像的权力 Re-TROS (Room7 背景音乐)
+《8+2+8 II》—— 重塑雕像的权力 (Room7 背景音乐)
 
-《THE LAST DANCE, W_》 —— 重塑雕像的权力 Re-TROS (Room12 背景音乐)
+《THE LAST DANCE, W_》 —— 重塑雕像的权力 (Room12 背景音乐)
+
+《Up Next: Bela Lugosi's Back》—— 重塑雕像的权力 (Room7 开门音效)
 
 
 
