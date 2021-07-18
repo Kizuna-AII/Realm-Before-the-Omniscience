@@ -100,10 +100,7 @@ DAY3: Room8、11所有物件，无尽回廊纹理调整，所有房间纹理调�
 
 #### Todo：
 
-1. Room6光照
-3. Ending
 3. 提示&反馈
-11. Room12收集品材质
 
 #### tester的问题反馈：
 
@@ -137,27 +134,29 @@ Realm : Before the Omniscience
 
 Contributors
 
-Master Planning : River75731
+Director : River75731
 
 Concept Sketch : FlazeNaive, Kizuna_AII, River75731, SilverNebula
 
-Concept Design : River75731
+Game Concept Designer : River75731
 
-Level Design : River75731
+Level Designer : River75731
 
-User Interface : SilverNebula
+Art Director : FlazeNaive
 
-Sound Effect : SilverNebula
-
-Background Music : River75731
-
-Art Supervisor : FlazeNaive
-
-Scene Building : FlazeNaive, Kizuna_AII, River75731
+Environment Artist : FlazeNaive, Kizuna_AII, River75731
 
 Art Material : FlazeNaive, Kizuna_AII, River75731
 
-Mechanic Implementation : Kizuna_AII
+Localization Director : SilverNebula
+
+UI Artist : SilverNebula
+
+Audio Director : River75731
+
+SE Artist  : SilverNebula
+
+Lead Mechanic Programmer : Kizuna_AII
 
 
 
@@ -231,17 +230,19 @@ Unreal Engine 4.26.2
 
 关卡设计：江昊翰
 
-UI界面：游宁远
-
-音效 ： 游宁远
-
-背景音乐 ：江昊翰
-
 美术总监：贺情怡
 
-场景搭建 ： 贺情怡、江昊翰、钟添芸
+环境设计 ： 贺情怡、江昊翰、钟添芸
 
 美术素材 ： 贺情怡、江昊翰、钟添芸
+
+本地化总监：游宁远
+
+音乐总监 ：江昊翰
+
+UI设计：游宁远
+
+音效设计 ： 游宁远
 
 核心技术蓝图：钟添芸
 
