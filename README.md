@@ -90,6 +90,7 @@ Demo：./Release
 20. Room6灯光有问题（该亮不亮、该暗不暗），住院大厅的骷髅太亮了，不开门的病房可以考虑门口加打光（有人建议底光）
 21. poster改字
 22. Room4的Collection有点布太星，想想解决办法
+23. Room11除了Controller3 都改成没有reset键
 
 
 
