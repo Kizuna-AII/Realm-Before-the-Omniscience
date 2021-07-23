@@ -91,6 +91,7 @@ Demo：./Release
 21. ~~poster改字~~
 22. Room4的Collection有点布太星，想想解决办法
 23. Room11除了Controller3 都改成没有reset键
+24. 有没有可能把room3观测位置改成站在椅子上（或者把椅子换成别的暗示）
 
 
 
