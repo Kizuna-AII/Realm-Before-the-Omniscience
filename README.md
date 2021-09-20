@@ -34,6 +34,8 @@ Demo：./Release
 
 分工文档：Detailed Contribution.md
 
+注：由于Github LFS需要收费，现已删去大部分资源文件。如若需要完整代码与资源文件，请联系zty61211@gmail.com
+
 
 
 ## Timeline
